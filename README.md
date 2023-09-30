@@ -1,6 +1,6 @@
 # Code String 75 Challenge
 
-Welcome to my "Code String 75 Challenge" repository! 🚀
+Welcome to my "CodeStrong75 Challenge" repository! 🚀
 
 ## Overview
 
