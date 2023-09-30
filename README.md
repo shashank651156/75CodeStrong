@@ -20,7 +20,7 @@ This repository documents my 75-day coding journey, inspired by Nishant Chahar's
 
 ## Connect with Me
 
-- LinkedIn: [[Insert Your LinkedIn Profile Link](https://www.linkedin.com/in/shashank-soni-b85a451b3/)]
+- LinkedIn:(https://www.linkedin.com/in/shashank-soni-b85a451b3/)
 - LeetCode: [[Insert Your LeetCode Profile Link](https://leetcode.com/just_a_normal_coder/)]
 
 Feel free to explore, provide feedback, and even join me on this coding journey by forking or contributing to this repository. Let's inspire and empower each other to become "Code String 75 Strong"! 💪💻
