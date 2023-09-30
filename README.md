@@ -1,4 +1,4 @@
-# Code String 75 Challenge
+# Code Strong 75 Challenge
 
 Welcome to my "CodeStrong75 Challenge" repository! 🚀
 
