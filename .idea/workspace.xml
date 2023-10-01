@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="833529a7-f397-4315-9f9c-c2a3772128f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Code Challenges/132.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code Challenges/132.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Challenges/55-jumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code Challenges/55-jumpGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Challenges/557.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code Challenges/557.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code Challenges/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Code Challenges/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Progess Updates/DAY-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/Progess Updates/DAY-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2WAbih8gQxfhhqt4wrCumHzKpXQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="833529a7-f397-4315-9f9c-c2a3772128f7" name="Changes" comment="" />
+      <created>1696178462306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696178462306</updated>
+    </task>
+    <servers />
+  </component>
+</project>
