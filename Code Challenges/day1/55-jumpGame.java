@@ -1,3 +1,4 @@
+package day1;
 public class Solution {
     public boolean canJump(int[] nums) {
         int goal = nums.length - 1; // Initialize the goal to the end of the array.

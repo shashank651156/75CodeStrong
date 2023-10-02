@@ -1,3 +1,4 @@
+package day1;
 class Solution {
     public String reverseWords(String s) {
         // Split the input string into words using space as the delimiter
