@@ -15,3 +15,8 @@ day_3
 * 136\. [Single Number](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%203/136_singleNumber.java)
 * 1512\. [Number of Good Pairs](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%203/1512_numberOfGreatPairs.java)
 * 34\. [Find First and Last Position of Element in Sorted Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%203/34.java)
+
+day_4
+*48\. [Rotate Image](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/48.java)
+*290\. [Word Pattern](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/290.java)
+*709\. [Design HashMap](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/706.java)
