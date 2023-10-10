@@ -17,6 +17,10 @@ day_3
 * 34\. [Find First and Last Position of Element in Sorted Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%203/34.java)
 
 day_4
-*48\. [Rotate Image](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/48.java)
-*290\. [Word Pattern](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/290.java)
-*709\. [Design HashMap](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/706.java)
+* 48\. [Rotate Image](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/48.java)
+* 290\. [Word Pattern](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/290.java)
+* 709\. [Design HashMap](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/706.java)
+
+day_10
+* 2009\. [Minimum Number of Operations to Make Array Continuous](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/2009.java)
+* 62\. [Unique Paths](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/62.java)
