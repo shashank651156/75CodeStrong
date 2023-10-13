@@ -24,3 +24,9 @@ day_4
 day_10
 * 2009\. [Minimum Number of Operations to Make Array Continuous](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/2009.java)
 * 62\. [Unique Paths](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/62.java)
+
+day_12
+* 852\. [Peak Index in a Mountain Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/852.java)
+* 628\. [Maximum Product of Three Numbers](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/628.java)
+* 709\. [To Lower Case](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/709.java)
+* 1095\. [Find in Mountain Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/1095.java)
