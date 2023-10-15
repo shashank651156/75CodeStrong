@@ -30,3 +30,9 @@ day_12
 * 628\. [Maximum Product of Three Numbers](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/628.java)
 * 709\. [To Lower Case](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/709.java)
 * 1095\. [Find in Mountain Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/1095.java)
+
+day_13
+* 2154\. [Keep Multiplying Found Values by Two](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/2154.java)
+* 2231\. [Largest Number After Digit Swaps by Parity](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/2231.java)
+* 746\. [Min Cost Climbing Stairs](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/746.java)
+* 747\. [Largest Number At Least Twice of Others](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/747.java)
