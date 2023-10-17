@@ -36,3 +36,15 @@ day_13
 * 2231\. [Largest Number After Digit Swaps by Parity](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/2231.java)
 * 746\. [Min Cost Climbing Stairs](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/746.java)
 * 747\. [Largest Number At Least Twice of Others](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/747.java)
+
+day_14
+* \. []()
+* \. []()
+
+day_15
+* \. []()
+* \. []()
+
+day_16
+* 17\. [Letter Combinations of a Phone Number](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2016/17.java)
+* 119\. [Pascal's Triangle II](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2016/119.java)
