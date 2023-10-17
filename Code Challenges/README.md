@@ -48,3 +48,8 @@ day_15
 day_16
 * 17\. [Letter Combinations of a Phone Number](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2016/17.java)
 * 119\. [Pascal's Triangle II](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2016/119.java)
+
+day_17
+* 561\. [Array Partition](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2017/561.java)
+* 120 \. [Triangle](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2017/120.java)
+* 1361\. [Validate Binary Tree Nodes](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2017/1361.java)
