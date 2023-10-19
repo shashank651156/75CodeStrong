@@ -53,3 +53,12 @@ day_17
 * 561\. [Array Partition](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2017/561.java)
 * 120 \. [Triangle](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2017/120.java)
 * 1361\. [Validate Binary Tree Nodes](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2017/1361.java)
+
+day_18
+* \. []()
+* \. []()
+
+day_19
+* 128\. [Longest Consecutive Sequence](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2019/128.java)
+* 605\. [Can Place Flowers](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2019/605.java)
+* 844\. [Backspace String Compare](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2019/844.java)
