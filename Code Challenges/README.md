@@ -62,3 +62,8 @@ day_19
 * 128\. [Longest Consecutive Sequence](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2019/128.java)
 * 605\. [Can Place Flowers](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2019/605.java)
 * 844\. [Backspace String Compare](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2019/844.java)
+
+day_20
+* 1221\. [Split a String in Balanced Strings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2020/1221.java)
+* 341\. [Flatten Nested List Iterator](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2020/341.java)
+* 738\. [Monotone Increasing Digits](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2020/738.java)
