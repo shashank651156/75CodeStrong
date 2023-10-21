@@ -67,3 +67,7 @@ day_20
 * 1221\. [Split a String in Balanced Strings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2020/1221.java)
 * 341\. [Flatten Nested List Iterator](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2020/341.java)
 * 738\. [Monotone Increasing Digits](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2020/738.java)
+
+day_21
+* 367\. [Valid Perfect Square](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2021/367.java)
+* 1425\. [Constrained Subsequence Sum](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2021/1425.java)
