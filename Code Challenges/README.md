@@ -71,3 +71,15 @@ day_20
 day_21
 * 367\. [Valid Perfect Square](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2021/367.java)
 * 1425\. [Constrained Subsequence Sum](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2021/1425.java)
+
+day_22
+* \.[]()
+* \.[]()
+
+day_23
+* \.[]()
+* \.[]()
+
+day_24
+* \.[]()
+* \.[]()
