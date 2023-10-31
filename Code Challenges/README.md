@@ -38,12 +38,12 @@ day_13
 * 747\. [Largest Number At Least Twice of Others](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/747.java)
 
 day_14
-* \. []()
-* \. []()
+* 2742\. [Painting the Walls](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2014/2742.java)
+* \. [Kth Largest Element in a Stream](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2014/703.java)
 
 day_15
-* \. []()
-* \. []()
+* 338\. [Counting Bits](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2015/338.java)
+* 1269\. [Number of Ways to Stay in the Same Place After Some Steps. Kth Largest Element in a Stream](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2015/1269.java)
 
 day_16
 * 17\. [Letter Combinations of a Phone Number](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2016/17.java)
