@@ -123,12 +123,11 @@ day_27
 * \. []()
 
 day_28
-* \. []()
-* \. []()
+* 225\. [Implement Stack using Queues](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2028/225.java)
+* 458\. [Poor Pigs](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2028/458.java)
 
 day_29
-* \. []()
-* \. []()
+* 1220\. [Count Vowels Permutation](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2029/1220.java)
 
 day_30
 * \. []()
