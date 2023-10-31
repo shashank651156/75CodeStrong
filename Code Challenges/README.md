@@ -21,9 +21,35 @@ day_4
 * 290\. [Word Pattern](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/290.java)
 * 709\. [Design HashMap](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/706.java)
 
+day_5
+* \. []()
+* \. []()
+
+day_6
+* \. []()
+* \. []()
+
+day_7
+* \. []()
+* \. []()
+
+day_8
+* 1458\. [Max Dot Product of Two Subsequences:](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/1458.java)
+* 1480\. [Running Sum of 1d Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/1480.java)
+* 2828\. [Check if a String Is an Acronym of Words](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/2828.java)
+* 392\. [Is Subsequence](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/392.java)
+
+day_9
+* \. []()
+* \. []()
+
 day_10
 * 2009\. [Minimum Number of Operations to Make Array Continuous](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/2009.java)
 * 62\. [Unique Paths](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/62.java)
+
+day_11
+* \. []()
+* \. []()
 
 day_12
 * 852\. [Peak Index in a Mountain Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/852.java)
@@ -38,12 +64,12 @@ day_13
 * 747\. [Largest Number At Least Twice of Others](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2013/747.java)
 
 day_14
-* \. []()
-* \. []()
+* 2742\. [Painting the Walls](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2014/2742.java)
+* \. [Kth Largest Element in a Stream](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2014/703.java)
 
 day_15
-* \. []()
-* \. []()
+* 338\. [Counting Bits](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2015/338.java)
+* 1269\. [Number of Ways to Stay in the Same Place After Some Steps. Kth Largest Element in a Stream](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2015/1269.java)
 
 day_16
 * 17\. [Letter Combinations of a Phone Number](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2016/17.java)
@@ -73,16 +99,40 @@ day_21
 * 1425\. [Constrained Subsequence Sum](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2021/1425.java)
 
 day_22
-* \.[]()
-* \.[]()
+* 1793\. [Maximum Score of a Good Subarray](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2022/1793.java)
+* 506\. [Relative Ranks](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2022/506.java)
 
 day_23
-* \.[]()
-* \.[]()
+* 464 \.[Can I Win](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2023/464.java)
+* 342 \.[Power of Four](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2023/342.java)
 
 day_24
 * 43\. [Multiply Strings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2024/43.java)
 * 515\. [Find Largest Value in Each Tree Row](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2024/515.java)
+
+day_25
+* 779\. [K-th Symbol in Grammar](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2025/779.java)
+* 125\. [Valid Palindrome](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2025/125.java)
+
+day_26
+* \. []()
+* \. []()
+
+day_27
+* \. []()
+* \. []()
+
+day_28
+* \. []()
+* \. []()
+
+day_29
+* \. []()
+* \. []()
+
+day_30
+* \. []()
+* \. []()
 
 day_31
 * 2433\. [Find The Original Array of Prefix Xor](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/2433.java)
