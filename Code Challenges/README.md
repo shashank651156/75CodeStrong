@@ -47,7 +47,7 @@ day_10
 * 2009\. [Minimum Number of Operations to Make Array Continuous](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/2009.java)
 * 62\. [Unique Paths](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/62.java)
 
-day_5
+day_11
 * \. []()
 * \. []()
 
@@ -113,6 +113,26 @@ day_24
 day_25
 * 779\. [K-th Symbol in Grammar](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2025/779.java)
 * 125\. [Valid Palindrome](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2025/125.java)
+
+day_26
+* \. []()
+* \. []()
+
+day_27
+* \. []()
+* \. []()
+
+day_28
+* \. []()
+* \. []()
+
+day_29
+* \. []()
+* \. []()
+
+day_30
+* \. []()
+* \. []()
 
 day_31
 * 2433\. [Find The Original Array of Prefix Xor](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/2433.java)
