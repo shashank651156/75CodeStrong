@@ -81,8 +81,8 @@ day_17
 * 1361\. [Validate Binary Tree Nodes](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2017/1361.java)
 
 day_18
-* \. []()
-* \. []()
+* 409\. [Longest Palindrome](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2018/409.java)
+* 2050\. [Parallel Courses III](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2018/2050.java)
 
 day_19
 * 128\. [Longest Consecutive Sequence](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2019/128.java)
