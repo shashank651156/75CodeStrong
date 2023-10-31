@@ -115,12 +115,12 @@ day_25
 * 125\. [Valid Palindrome](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2025/125.java)
 
 day_26
-* \. []()
-* \. []()
+* 58\. [Length of Last Word](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2026/58.java)
+* 823\. [Binary Trees With Factors](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2026/823.java)
 
 day_27
-* \. []()
-* \. []()
+* 389\. [Find the Difference](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2027/389.java)
+* 5\. [Longest Palindromic Substring](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2027/5.java)
 
 day_28
 * 225\. [Implement Stack using Queues](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2028/225.java)
@@ -130,8 +130,8 @@ day_29
 * 1220\. [Count Vowels Permutation](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2029/1220.java)
 
 day_30
-* \. []()
-* \. []()
+* 1397\. [Find All Good Strings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2030/1397.java)
+* 1356\. [Sort Integers by The Number of 1 Bits](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2030/1356.java)
 
 day_31
 * 2433\. [Find The Original Array of Prefix Xor](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/2433.java)
