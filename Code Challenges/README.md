@@ -22,12 +22,13 @@ day_4
 * 709\. [Design HashMap](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/706.java)
 
 day_5
-* \. []()
-* \. []()
+* 665\. [Non-decreasing Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%205/665.java)
+* 229\. [Majority Element II](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%205/229.java)
 
 day_6
-* \. []()
-* \. []()
+* 343\. [Integer Break](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%206/343.java)
+* 2873\. [Maximum Value of an Ordered Triplet I](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%206/2873.java)
+* 349\. [Intersection of Two Arrays](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%206/349.java)
 
 day_7
 * \. []()
@@ -65,7 +66,7 @@ day_13
 
 day_14
 * 2742\. [Painting the Walls](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2014/2742.java)
-* \. [Kth Largest Element in a Stream](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2014/703.java)
+* 703\. [Kth Largest Element in a Stream](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2014/703.java)
 
 day_15
 * 338\. [Counting Bits](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2015/338.java)
