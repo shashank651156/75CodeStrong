@@ -81,5 +81,10 @@ day_23
 * \.[]()
 
 day_24
-* 43\.[Multiply Strings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2024/43.java)
-* 515\.[Find Largest Value in Each Tree Row](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2024/515.java)
+* 43\. [Multiply Strings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2024/43.java)
+* 515\. [Find Largest Value in Each Tree Row](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2024/515.java)
+
+day_31
+* 2433\. [Find The Original Array of Prefix Xor](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/2433.java)
+* 118\. [Pascal's Triangle](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/118.java)
+* 14\. [Longest Common Prefix](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/14.java)
