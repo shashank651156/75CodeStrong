@@ -73,16 +73,20 @@ day_21
 * 1425\. [Constrained Subsequence Sum](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2021/1425.java)
 
 day_22
-* \.[]()
-* \.[]()
+* 1793\. [Maximum Score of a Good Subarray](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2022/1793.java)
+* 506\. [Relative Ranks](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2022/506.java)
 
 day_23
-* \.[]()
-* \.[]()
+* 464 \.[Can I Win](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2023/464.java)
+* 342 \.[Power of Four](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2023/342.java)
 
 day_24
 * 43\. [Multiply Strings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2024/43.java)
 * 515\. [Find Largest Value in Each Tree Row](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2024/515.java)
+
+day_25
+* 779\. [K-th Symbol in Grammar](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2025/779.java)
+* 125\. [Valid Palindrome](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2025/125.java)
 
 day_31
 * 2433\. [Find The Original Array of Prefix Xor](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/2433.java)
