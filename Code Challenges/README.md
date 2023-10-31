@@ -41,16 +41,16 @@ day_8
 * 392\. [Is Subsequence](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/392.java)
 
 day_9
-* \. []()
-* \. []()
+* 34\. [Find First and Last Position of Element in Sorted Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%209/34.java)
+* 70\. [Climbing Stairs](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%209/70.java)
 
 day_10
 * 2009\. [Minimum Number of Operations to Make Array Continuous](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/2009.java)
 * 62\. [Unique Paths](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/62.java)
 
 day_11
-* \. []()
-* \. []()
+* 2251\. [Number of Flowers in Full Bloom](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2011/2251.java)
+* 20\. [Valid Parentheses](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2011/20.java)
 
 day_12
 * 852\. [Peak Index in a Mountain Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/852.java)
