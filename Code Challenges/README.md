@@ -21,9 +21,35 @@ day_4
 * 290\. [Word Pattern](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/290.java)
 * 709\. [Design HashMap](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%204/706.java)
 
+day_5
+* \. []()
+* \. []()
+
+day_6
+* \. []()
+* \. []()
+
+day_7
+* \. []()
+* \. []()
+
+day_8
+* 1458\. [Max Dot Product of Two Subsequences:](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/1458.java)
+* 1480\. [Running Sum of 1d Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/1480.java)
+* 2828\. [Check if a String Is an Acronym of Words](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/2828.java)
+* 392\. [Is Subsequence](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/392.java)
+
+day_9
+* \. []()
+* \. []()
+
 day_10
 * 2009\. [Minimum Number of Operations to Make Array Continuous](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/2009.java)
 * 62\. [Unique Paths](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2010/62.java)
+
+day_5
+* \. []()
+* \. []()
 
 day_12
 * 852\. [Peak Index in a Mountain Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2012/852.java)
