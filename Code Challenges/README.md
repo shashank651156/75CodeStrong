@@ -31,8 +31,8 @@ day_6
 * 349\. [Intersection of Two Arrays](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%206/349.java)
 
 day_7
-* \. []()
-* \. []()
+* 67\. [Add Binary](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%207/67.java)
+* 1420\. [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%207/1420.java)
 
 day_8
 * 1458\. [Max Dot Product of Two Subsequences:](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%208/1458.java)
