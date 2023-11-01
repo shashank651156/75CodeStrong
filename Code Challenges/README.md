@@ -140,14 +140,14 @@ day_31
 * 14\. [Longest Common Prefix](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/14.java)
 
 day_32
-* 39\. []()
-* \. []()
-* \. []()
-* \. []()
-* \. []()
+* 39\. [Combination Sum](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2032/39.java)
+* 2011\. [Final Value of Variable After Performing Operations](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2032/2011.java)
+* 412\. [Fizz Buzz](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2032/412.java)
+* 501\. [Find Mode in Binary Search Tree](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2032/501.java)
+* 2000\. [Reverse Prefix of Word](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2032/2000.java)
 
-day_32
-* 39\. []()
+day_33
+* \. []()
 * \. []()
 * \. []()
 * \. []()
