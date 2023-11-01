@@ -138,3 +138,17 @@ day_31
 * 2433\. [Find The Original Array of Prefix Xor](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/2433.java)
 * 118\. [Pascal's Triangle](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/118.java)
 * 14\. [Longest Common Prefix](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2031/14.java)
+
+day_32
+* 39\. []()
+* \. []()
+* \. []()
+* \. []()
+* \. []()
+
+day_32
+* 39\. []()
+* \. []()
+* \. []()
+* \. []()
+* \. []()
