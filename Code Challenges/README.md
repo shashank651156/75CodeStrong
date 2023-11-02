@@ -147,6 +147,12 @@ day_32
 * 2000\. [Reverse Prefix of Word](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2032/2000.java)
 
 day_33
+* 24\. [Swap Nodes in Pairs](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2033/24.java)
+* 2265\. [Count Nodes Equal to Average of Subtree](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2033/2265.java)
+* 448\. [Find All Numbers Disappeared in an Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2033/448.java)
+* 867\. [Transpose Matrix](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2033/867.java)
+
+day_34
 * \. []()
 * \. []()
 * \. []()
