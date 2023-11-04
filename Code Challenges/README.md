@@ -153,6 +153,11 @@ day_33
 * 867\. [Transpose Matrix](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2033/867.java)
 
 day_34
+* 42\. [Trapping Rain Water](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2034/42.java)
+* 1441\. [Build an Array With Stack Operations](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2034/1441.java)
+
+
+day_35
 * \. []()
 * \. []()
 * \. []()
