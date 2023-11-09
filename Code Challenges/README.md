@@ -156,8 +156,11 @@ day_34
 * 42\. [Trapping Rain Water](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2034/42.java)
 * 1441\. [Build an Array With Stack Operations](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2034/1441.java)
 
-
 day_35
+* \. [Last Moment Before All Ants Fall Out of a Plank](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2035/1503.java)
+* \. [Remove Duplicates from Sorted Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2035/26.java)
+
+day_36
 * \. []()
 * \. []()
 * \. []()
