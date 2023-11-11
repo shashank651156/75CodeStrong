@@ -166,3 +166,20 @@ day_36
 * \. []()
 * \. []()
 * \. []()
+
+day_37
+* \. []()
+* \. []()
+* \. []()
+
+day_38
+* \. []()
+* \. []()
+
+day_39
+* \. []()
+* \. []()
+
+day_40
+* 217\. [Contains Duplicate](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2040/217.java)
+* 1759\. [Count Number of Homogenous Substrings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2040/1759.java)
