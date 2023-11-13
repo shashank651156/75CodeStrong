@@ -183,3 +183,11 @@ day_39
 day_40
 * 217\. [Contains Duplicate](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2040/217.java)
 * 1759\. [Count Number of Homogenous Substrings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2040/1759.java)
+
+day_41
+* \. []()
+* \. []()
+
+day_42
+* 209\. [Minimum Size Subarray Sum](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2042/209.py)
+* 2642\. [Design Graph With Shortest Path Calculator](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2042/2642.java)
