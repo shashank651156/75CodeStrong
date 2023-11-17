@@ -196,3 +196,7 @@ day_44
 * 345\. [Reverse Vowels of a String](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2044/345.java)
 * 347\. [Top K Frequent Elements](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2044/347.java)
 * 2875\. [Sort Vowels in a String](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2044/2785.java)
+
+day_47
+* 414\. [Third Maximum Number](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2047/414.java)
+* 1980\. [Find Unique Binary String](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2047/1980.java)
