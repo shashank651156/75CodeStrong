@@ -191,3 +191,8 @@ day_41
 day_42
 * 209\. [Minimum Size Subarray Sum](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2042/209.py)
 * 2642\. [Design Graph With Shortest Path Calculator](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2042/2642.java)
+
+day_44
+* 345\. [Reverse Vowels of a String](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2044/345.java)
+* 347\. [Top K Frequent Elements](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2044/347.java)
+* 2875\. [Sort Vowels in a String](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2044/2785.java)
