@@ -205,3 +205,7 @@ day_52
 * 1814\. [Count Nice Pairs in an Array](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2052/1814.java)
 * 455\. [Assign Cookies](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2052/455.java)
 
+day_59
+* 2147\. [Number of Ways to Divide a Long Corridor](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2059/2147.py)
+* 58\. [Length of Last Word](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2059/58.java)
+
