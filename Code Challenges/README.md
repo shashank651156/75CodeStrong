@@ -209,3 +209,9 @@ day_59
 * 2147\. [Number of Ways to Divide a Long Corridor](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2059/2147.py)
 * 58\. [Length of Last Word](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2059/58.java)
 
+day_63
+* 59\. [Spiral Matrix II](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2063/59.java)
+* 61\. [Rotate List](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2063/61.java)
+* 1160\. [Find Words That Can Be Formed by Characters](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2063/1160.java)
+* 2486\. [Append Characters to String to Make Subsequence](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2063/2486.java)
+
