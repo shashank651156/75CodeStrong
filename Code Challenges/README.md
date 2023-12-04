@@ -215,3 +215,6 @@ day_63
 * 1160\. [Find Words That Can Be Formed by Characters](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2063/1160.java)
 * 2486\. [Append Characters to String to Make Subsequence](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2063/2486.java)
 
+day_64
+* 2\. [Add Two Numbers](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2064/2.java)
+* 1266\. [Minimum Time Visiting All Points](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2064/1266.java)
