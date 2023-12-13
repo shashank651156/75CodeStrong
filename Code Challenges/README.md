@@ -218,3 +218,7 @@ day_63
 day_64
 * 2\. [Add Two Numbers](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2064/2.java)
 * 1266\. [Minimum Time Visiting All Points](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2064/1266.java)
+
+day_74
+* 859\. [Buddy Strings](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2074/859.java)
+* 1582\. [Special Positions in a Binary Matrix](https://github.com/shashank651156/75CodeStrong/blob/main/Code%20Challenges/day%2074/1582.py)
